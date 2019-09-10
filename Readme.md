@@ -29,7 +29,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y8usoKalYts
 " target="_blank"><img src="http://img.youtube.com/vi/Y8usoKalYts/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="720" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
 
 ---
 
