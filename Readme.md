@@ -25,13 +25,7 @@
 ## BILLIARDS
 > One of my favorite past times is meeting and playing with professional pool players. I've gotten the opportunity to get completely obliterated by some of the world's best players. Here's a video with professional player Alex Pagulayan filmed at Amsterdam Billiards in New York City. For some reason I can't actually embed a video here which is really surprising, but a quick search of the github website informed me that I could hyperlink a video with the thumbnail of the video pretty easily, so here's that.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8usoKalYts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y8usoKalYts
-" target="_blank"><img src="http://img.youtube.com/vi/Y8usoKalYts/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
-
----
+[![Rollie and Alex](https://i.ytimg.com/vi/Y8usoKalYts/maxresdefault.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Rollie and Alex")
 
 ## RESEARCH INTERESTS
 > My absolute number-one-with-a-bullet Raison D'être is to connect my obsession with climate change to my interest in comedic communication. Climate change sometimes suffers from a messaging problem and too many articulate idiots making bad faith arguments have done lasting damage to people in developing worlds because they refuse to believe in science. But if I had to talk about my research interests in a numbered list, it might look a little something like this:
